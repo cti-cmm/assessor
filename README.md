@@ -1,14 +1,14 @@
 # The CTI-CMM Assessment Resource
 
 ## Introduction
-The CTI-CMM beta assessment tool is a stand-alone spreadsheet intended for users to download and use locally. Users self-evaluate their current maturity posture across each of the objective in a domain using the CTI0-CTI3 scale. In this tool, CTI0 represents no capability, CTI1 a partial implementation, CTI2 largely implemented, and CTI3 for fully implemented. 
+The CTI-CMM assessment is a stand-alone spreadsheet intended for users to download and use locally. Users self-evaluate their current maturity posture across each of the objective in a domain using the CTI0-CTI3 scale. In this assessment approach, CTI0 represents no capability, CTI1 a partial implementation, CTI2 largely implemented, and CTI3 for fully implemented. 
 
 ![images/CTI-CMM Maturity Levels and Characteristics.jpg](https://github.com/cti-cmm/assessor/blob/d29d17330cd2db7fe92a790fdfca9e1b546b2960/images/CTI-CMM%20Maturity%20Levels%20and%20Characteristics.jpg)
 
-The Beta CTI-CMM self-assessment tool is a standalone spreadsheet that dynamically populates as the user fills out scores across each domain. Inside of the spreadsheet, there's an introductory section, an obligatory read me on how to use the tool, and a master dashboard, before displaying each section's content. 
+The CTI-CMM assessment dynamically populates as the user fills out scores across each domain. Inside of the spreadsheet, there's an introductory section, an obligatory read me with instructions, and a primary dashboard, before displaying each domain's content. 
 
 ## How Long Will Each Assessment Take
-The CTI-CMM assessment tool is comprised of 230 statements across its 11 sections. Each section aligns to a different function or stakeholder a CTI program could service, which means that not all sections are relevant for every CTI program. As a result, some programs, especially those with a larger set of customers, may spend more time than others. 
+The CTI-CMM assessment is comprised of 230 statements across its 11 domains. Each domain aligns to a different function or stakeholder a CTI program could service, which means that not all domains are relevant for every CTI program. As a result, some programs, especially those with a larger set of customers, may spend more time than others. 
 
 However, since the assessment is an introspective self-evaluation the CTI program should document its sources of evidence and line of reasoning to support the evaluation score it provides. As a result, CTI programs who plan to use CTI-CMM as a benchmark for program maturity and organizational reach will reap the benefits from having spent time enumerating supporting documentation--called "Evidence" in the assessment--and the line of reasoning for scoring.    
 
@@ -29,7 +29,7 @@ The only required inputs for each CTI-CMM domain is the evaluation score per obj
 The more detail you put into your assessment now, the easier it will be to establish clear action plans for improvement.  
 
 ## How Often Should I Perform An Assessment?
-We recommend CTI programs perform an assessment using this tool at least bi-annually, often after end of year strategic planning and at the mid-point in the year to benchmark progress. If a CTI program re-structures or expands its remit, we would encourage CTI programs to develop a roadmap using the criteria identified in each section then identify growth trajectory at the six month milestone.  
+We recommend CTI programs perform an assessment at least bi-annually, often after end of year strategic planning and at the mid-point in the year to benchmark progress. If a CTI program re-structures or expands its remit, we would encourage CTI programs to develop a roadmap using the criteria identified in each domain then identify growth trajectory at the six month milestone.  
 
 ## Share Your Feedback or Experience
 We’d love to hear from you! Whether you have suggestions to improve the CTI-CMM framework or want to share how you’ve used it in your organization, your insights help us grow and serve the community better.
